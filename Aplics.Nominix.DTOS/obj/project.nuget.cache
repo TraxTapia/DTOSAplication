@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjbPsyvHce/Z+WeiiG0kzcxLU/xqCiZVibi6evBdKzlN/phlxIAxEnyFwETqI7gakYj/YnZMRELawa+yMKJ9PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivan.tapia\\Desktop\\proyect\\Aplics.Nominix.DTOS\\Aplics.Nominix.DTOS\\Aplics.Nominix.DTOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan.tapia\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\ivan.tapia\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\ivan.tapia\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\ivan.tapia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

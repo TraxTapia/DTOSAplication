@@ -1,0 +1,9 @@
+C:\Aplics\Repos\NominixWeb\Aplics.Nominix.DTOS\bin\Release\netcoreapp3.1\Aplics.Nominix.DTOS.deps.json
+C:\Aplics\Repos\NominixWeb\Aplics.Nominix.DTOS\bin\Release\netcoreapp3.1\Aplics.Nominix.DTOS.dll
+C:\Aplics\Repos\NominixWeb\Aplics.Nominix.DTOS\bin\Release\netcoreapp3.1\Aplics.Nominix.DTOS.pdb
+C:\Aplics\Repos\NominixWeb\Aplics.Nominix.DTOS\obj\Release\netcoreapp3.1\Aplics.Nominix.DTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplics\Repos\NominixWeb\Aplics.Nominix.DTOS\obj\Release\netcoreapp3.1\Aplics.Nominix.DTOS.AssemblyInfoInputs.cache
+C:\Aplics\Repos\NominixWeb\Aplics.Nominix.DTOS\obj\Release\netcoreapp3.1\Aplics.Nominix.DTOS.AssemblyInfo.cs
+C:\Aplics\Repos\NominixWeb\Aplics.Nominix.DTOS\obj\Release\netcoreapp3.1\Aplics.Nominix.DTOS.csproj.CoreCompileInputs.cache
+C:\Aplics\Repos\NominixWeb\Aplics.Nominix.DTOS\obj\Release\netcoreapp3.1\Aplics.Nominix.DTOS.dll
+C:\Aplics\Repos\NominixWeb\Aplics.Nominix.DTOS\obj\Release\netcoreapp3.1\Aplics.Nominix.DTOS.pdb
